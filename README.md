@@ -12,7 +12,7 @@ struct Foo {
 }
 
 let tree = rusx! {
-	<Foo bar=10, orb=true {
+	<Foo bar=10, orb=true> {
 		<orb=false, bar=230>,
 		<bar=100>
 	}
