@@ -1,6 +1,6 @@
 # `rusx`
 
-`rusx` is an ergonomic synatx for creating a parent-child tree of nodes, inspired by JSX.
+`rusx` is an ergonomic syntax for creating a parent-child tree of nodes, inspired by JSX.
 
 ```rust
 use rusx::prelude::*;
